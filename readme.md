@@ -44,7 +44,6 @@ Você precisa ter:
 ##### 1° :bookmark_tabs: Clone o repositório:
 
 ```sh
-  $ git clone https://github.com/Carradori/ecoleta.git
 ```
 
 ##### 2° :heavy_check_mark: Iniciando a aplicação:
